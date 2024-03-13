@@ -17,7 +17,7 @@
     <input name="metros" type="text">
     <br>
     <button type="submit">Enviar</button>
-  </form>
+  </form><br>
 
   <?php
   $metros = $_GET['metros'];
